@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SARVESH M RAO",
-    "currentPage": "links.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -50,7 +50,9 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='5b7b7a4e75a2bb325f2ead8e251303853a5b5ae98574752a3444503272b82f76';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
